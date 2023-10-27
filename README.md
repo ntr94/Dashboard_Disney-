@@ -22,3 +22,5 @@ Este proyecto consiste en obtener un Panel de Control con los datos de streaming
 ## Dashboard relacionados
 
 [Prime Video](https://github.com/ntr94/Dashboard_PrimeVideo)
+
+[Netflix](https://github.com/ntr94/Dashboard_Netflix)
